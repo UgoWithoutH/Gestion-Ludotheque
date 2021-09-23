@@ -1,0 +1,10 @@
+J0001	heroe rising
+plateau	10
+J0002	echec
+logique	5
+J0003	kapla
+construction	2
+J0004	hishiro
+tuile	15
+J0005	one piece
+logique	1
